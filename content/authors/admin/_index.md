@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: 阿欣欣&阿孟孟
 
 # Is this the primary user of the site?
 superuser: true
